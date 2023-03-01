@@ -1,5 +1,12 @@
 # PhD Overview
 
+I'm a PhD student in Environmental Intelligence at the University of Exeter, UK. My research interests include:
++ blue carbon
++ natural capital 
++ earth observation data
+
+## Research aim
+
 As we move into the UN Decade on Ecosystem Restoration, there is an urgent need to restore
 degraded ecosystems to address the ecological and climate emergencies. Between now and 2030,
 the restoration of 350 million hectares of degraded ecosystems could generate US$9 trillion in ecosystem services and remove 13–26 gigatons of greenhouse gases from the atmosphere (UNEP, 2020). Blue carbon ecosystems are particularly promising due to their exceptional capacity to sequester carbon.
